@@ -703,6 +703,10 @@ footer a:hover,
     font-size: 50%;
     width: 100vw;
   }
+  
+  .top-slide img {
+    width: 97%;
+  }
 
   .logo img {
     width: 50%;
