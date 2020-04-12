@@ -706,6 +706,10 @@ footer a:hover,
   .top-slide img {
     width: 97%;
   }
+  
+  .slick-dotted.slick-slider {
+    margin-bottom: 60px;
+}
 
   .logo img {
     width: 50%;
