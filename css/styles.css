@@ -477,7 +477,7 @@ footer {
   position: relative;
   color: #fff;
   text-align: center;
-  padding: 3rem 0 1rem;
+  padding-top: 3rem;
   font-family: sans-serif;
   z-index: 1;
 }
