@@ -668,7 +668,7 @@ footer a:hover,
 
   .concept_right {
     width: 85vw;
-    margin-top: 5rem;
+    margin: 5rem 2rem;
   }
 
   .concept {
@@ -711,7 +711,12 @@ footer a:hover,
   .logo02 img {
     width: 40%;
   }
-
+ .concept_right {
+    width: 100vw;
+  }
+  .news{
+    width: 100vw;
+  }
   .news p {
     width: 100vw;
     text-align: center;
