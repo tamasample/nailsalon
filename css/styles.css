@@ -268,10 +268,6 @@ nav ul li a {
   width: 13rem;
 }
 
-.news table td:last-child {
-  width: 50rem;
-}
-
 .news table td {
   padding-top: 1.3rem;
   padding-bottom: 0.5rem;
