@@ -242,10 +242,14 @@ nav ul li a {
   text-align: center;
 }
 
+.news{
+  width:100vw;
+}
+
 .news table {
   margin: 0 auto;
   font-size: 1.4rem;
-  width: 42rem;
+  width: 45rem;
 }
 
 .news tr a,
