@@ -224,6 +224,7 @@ nav ul li a {
 .concept_letter h4 {
   margin: 1rem 0;
   font-size: 2.1rem;
+  letter-spacing: -.1rem;
 }
 
 .concept_letter p {
