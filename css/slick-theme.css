@@ -202,3 +202,9 @@
     opacity: .75;
     color: black;
 }
+@media(max-width: 559px) {
+  
+  .slick-dotted.slick-slider {
+    margin-bottom: 60px;
+}
+}
