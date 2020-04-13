@@ -545,8 +545,8 @@ footer a {
 
 .tel {
   display: inline-block;
-  margin: 3rem 2rem 3rem 0;
-  font-size: 30px;
+  margin: 3rem 0;
+  font-size: 28px;
   position: relative;
   z-index: 10;
 }
