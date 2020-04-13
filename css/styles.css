@@ -231,7 +231,7 @@ nav ul li a {
 }
 
 .news h3 {
-  padding-top: 5rem;
+  padding-top: 3rem;
 }
 
 .price h3 {
@@ -546,7 +546,7 @@ footer a {
 .tel {
   display: inline-block;
   margin: 3rem 0;
-  font-size: 1rem;
+  font-size: 3rem;
   position: relative;
   z-index: 10;
 }
@@ -714,11 +714,11 @@ footer a:hover,
 }
 
   .logo img {
-    width: 50%;
+    width: 55%;
   }
 
   .logo02 img {
-    width: 40%;
+    width: 45%;
   }
  .concept_right {
     width: 100vw;
