@@ -560,6 +560,8 @@ footer p {
 .tel i {
   padding-right: .9rem;
   font-size: 2rem;
+   display: inline;
+  vertical-align: middle;
 }
 
 
