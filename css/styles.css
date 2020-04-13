@@ -518,7 +518,7 @@ footer li {
   width: 220px;
   border: 1px solid #fff;
   border-radius: 0 10px 0 0;
-  margin: 3rem 2rem 3rem 0;
+  margin: 3rem auto;
   font-size: 14px;
   display: inline-block;
   text-align: right;
@@ -545,7 +545,7 @@ footer a {
 
 .tel {
   display: inline-block;
-  margin: 3rem 0;
+  margin: 3rem 2rem 3rem 0;
   font-size: 30px;
   position: relative;
   z-index: 10;
