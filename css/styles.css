@@ -546,7 +546,7 @@ footer a {
 .tel {
   display: inline-block;
   margin: 3rem 0;
-  font-size: 28px;
+  font-size: 3rem;
   position: relative;
   z-index: 10;
 }
@@ -559,7 +559,7 @@ footer p {
 
 .tel i {
   padding-right: .9rem;
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 
