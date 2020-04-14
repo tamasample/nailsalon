@@ -142,7 +142,7 @@ nav ul li a {
 .top-slide {
   opacity: 0;
   transition: 1.5s;
-  margin-top: 12rem;
+  margin-top: 13rem;
 }
 
 .slick-initialized {
@@ -556,6 +556,7 @@ footer p {
   font-size: 3rem;
   position: relative;
   z-index: 10;
+  font-feature-settings:"pkna";
 }
 
 .tel img {
