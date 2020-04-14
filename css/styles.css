@@ -557,10 +557,7 @@ footer p {
   position: relative;
   z-index: 10;
   letter-spacing:-1em;
-}
-
-.tel span{
-   white-space:nowrap;
+  white-space:nowrap;
 }
 
 .tel img {
