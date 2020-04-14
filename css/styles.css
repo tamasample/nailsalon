@@ -499,7 +499,7 @@ footer div:first-child {
   z-index: 10;
 }
 
-footer div:first-child img {
+.footer-logo img {
   margin-bottom: 1rem;
 }
 
