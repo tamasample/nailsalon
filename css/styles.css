@@ -142,7 +142,7 @@ nav ul li a {
 .top-slide {
   opacity: 0;
   transition: 1.5s;
-  margin-top: 13rem;
+  margin-top: 12.5rem;
 }
 
 .slick-initialized {
