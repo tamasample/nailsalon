@@ -229,6 +229,7 @@ nav ul li a {
 
 .concept_letter p {
   font-size: 1.5rem;
+  letter-spacing: -.15rem;
 }
 
 .news h3 {
@@ -680,7 +681,7 @@ footer a:hover,
 
   .concept_right {
     width: 85vw;
-    margin: 5rem 2rem;
+    margin: 5rem 2rem 0;
   }
 
   .concept {
