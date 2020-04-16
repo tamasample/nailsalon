@@ -565,7 +565,7 @@ footer p {
 .tel span{
    display:inline-block !important;
  -webkit-font-feature-settings:"pkna";
-  width:max-content;
+  width:100%;
 }
 
 .tel img {
