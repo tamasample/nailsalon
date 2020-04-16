@@ -561,6 +561,7 @@ footer p {
   font-size: 3.5rem;
   position: relative;
   z-index: 10;
+  white-space:nowrap; 
 }
 
 .tel img {
@@ -569,6 +570,7 @@ footer p {
   color: #fff;
   vertical-align: middle;
   padding-bottom: .5rem; 
+  white-space:nowrap; 
 }
 
 
