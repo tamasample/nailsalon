@@ -569,7 +569,6 @@ footer p {
 }
 
 .tel img {
-  display:inline-block !important;
   width: 4rem;
   color: #fff;
   vertical-align: middle;
