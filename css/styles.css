@@ -560,8 +560,10 @@ footer p {
   margin: 3rem 1rem;
   font-size: 3.5rem;
   position: relative;
-  z-index: 10;
-  white-space:nowrap; 
+  z-index: 10; 
+}
+.tel span{
+   display:inline-block !important;
 }
 
 .tel img {
