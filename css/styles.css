@@ -563,11 +563,9 @@ footer p {
   z-index: 10; 
 }
 .tel span{
-   display:inline-block !important;
  -webkit-font-feature-settings:"pkna";
   width:100%;
   font-family: 'Roboto', sans-serif;
-  font-weight:500;
 }
 
 .tel img {
