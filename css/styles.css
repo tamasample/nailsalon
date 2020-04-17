@@ -7,8 +7,6 @@
 html {
   font-size: 62.5%;
   overflow-x: hidden;
-  -webkit-backface-visibility: hidden;
-　backface-visibility: hidden;
 }
 
 body {
@@ -16,6 +14,8 @@ body {
   font-size: 1.6em;
   overflow-x: hidden;
   font-family: 'Noto Serif JP', serif;
+   -webkit-backface-visibility: hidden;
+　backface-visibility: hidden;
 }
 
 a {
