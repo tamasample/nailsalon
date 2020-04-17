@@ -540,6 +540,7 @@ footer li {
   font-family: sans-serif;
   font-weight: 600;
   word-wrap:normal;
+  letter-spacing: -.1rem;
 }
 
 .tel img {
