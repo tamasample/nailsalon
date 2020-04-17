@@ -14,8 +14,6 @@ body {
   font-size: 1.6em;
   overflow-x: hidden;
   font-family: 'Noto Serif JP', serif;
-   -webkit-backface-visibility: hidden;
-　backface-visibility: hidden;
 }
 
 a {
@@ -202,6 +200,9 @@ nav ul li a {
   width: 100%;
   max-width: 100%;
   height: auto;
+   -webkit-backface-visibility: hidden;
+　backface-visibility: hidden;
+  overflow:hidden;
   -webkit-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
   -moz-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
   -ms-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
