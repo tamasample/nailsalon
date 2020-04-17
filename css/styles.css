@@ -672,6 +672,7 @@ footer a:hover,
   background-color: rgba(86, 86, 86, 0);
   border: 3px solid;
   border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
+  border-image: -webkit-linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
   border-image-slice: 1;
 }
 
