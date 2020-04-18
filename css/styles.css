@@ -204,7 +204,6 @@ nav ul li a {
   -webkit-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
   -moz-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
   -ms-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
-  -o-filter: grayscale(100%) blur(0.6px) drop-shadow(-25px 10px 15px #666);
   filter: grayscale(100%) blur(0.6px) drop-shadow(-15px 10px 15px #666);
   margin-top: 2rem;
   text-align: center;
@@ -678,7 +677,6 @@ footer a:hover,
   border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
   -ms-border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
   -webkit-border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
-  -o-border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
   border-image-slice: 1;
 }
 
