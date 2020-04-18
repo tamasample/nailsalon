@@ -493,7 +493,7 @@ footer {
   position: relative;
   color: #fff;
   text-align: center;
-  padding: 3rem 0 .5rem;
+  padding: 3rem 0;
   font-family: 'Noto Sans JP', sans-serif;
   z-index: 1;
 }
