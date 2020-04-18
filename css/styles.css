@@ -208,7 +208,7 @@ nav ul li a {
   filter: grayscale(100%) blur(0.6px) drop-shadow(-15px 10px 15px #666);
   margin-top: 2rem;
   text-align: center;
-  -webkit-transform3d(0, 0, 0,);
+  transform: translate3d(0px, 0px, 0px);
 }
 
 .concept_right {
@@ -274,7 +274,7 @@ nav ul li a {
   -webkit-backface-visibility: hidden;
 　backface-visibility: hidden;
   overflow:hidden;
-  -webkit-transform3d(0, 0, 0,);
+  transform: translate3d(0px, 0px, 0px);
 }
 
 .news table td:first-child {
