@@ -487,7 +487,6 @@ iframe {
 
 footer {
   width: 100%;
-  height: 45%;
   background-image: url(../img/footer.jpg);
   background-size: cover;
   background-position: center;
@@ -675,8 +674,11 @@ footer a:hover,
 
 .today {
   background-color: rgba(86, 86, 86, 0);
-  border: rgba(210, 176, 113) 3px solid;
+  border: transparent 3px solid;
   border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
+  -ms-border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
+  -webkit-border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
+  -o-border-image: linear-gradient(180deg, rgba(210, 176, 113), rgba(210, 176, 113, 0.3));
   border-image-slice: 1;
 }
 
