@@ -398,6 +398,7 @@ nav ul li a {
 
 .price table {
   width: 450px;
+  margin:0 1.5rem;
 }
 
 .price_wrapper {
